@@ -155,66 +155,6 @@ body>h2{
 	color:#97bb7b; 
 	text-align: center;
 }
-#NO_site{
-	width: 265px; 
-	height: 150px; 
-	margin: 0 auto; 
-	background-image: url('sororityWebsite.png'); 
-	background-size: contain;
-}
-#juke_site{
-	width: 265px; 
-	height: 150px; 
-	margin: 0 auto;
-	background-image: url('jukeB_SC.png'); 
-	background-size: contain;
-}
-
-#profilePic01{
-	margin-right: 20px;
-	border: 4px outset teal; 
-	display: inline-block; 
-	width: 1026px; 
-	height: 814px; 
-	background-image: url('IMG_1488.JPG'); 
-	background-size: contain;
-}
-
-#profilePic02{
-	margin-right: 20px;
-	border: 4px outset teal; 
-	display: inline-block; 
-	width: 988px; 
-	height: 780px; 
-	background-image: url('IMG_1491.JPG'); 
-	background-size: contain;
-}
-
-
-
-
-#profilePic1{
-	margin-right: 20px;
-	border: 4px outset teal; 
-	display: inline-block; 
-	width: 880px; 
-	height: 495px; 
-	background-image: url('IMG_1496.JPG'); 
-	background-size: contain;
-}
-
-#profilePic2{
-	margin-right: 20px;
-	border: 4px outset teal; 
-	display: inline-block; 
-	width: 864px; 
-	height: 576px; 
-	background-image: url('IMG_1497.JPG'); 
-	background-size: contain;
-}
-
-
-
 
 
 
@@ -326,10 +266,6 @@ body>h2{
 		width: 200px;
 		height: 112px;
 	}
-	#profilePic{
-	width: 90px; 
-	height: 80px; 
-	background-image: url('IMG_1496.JPG'); 
-	background-size: contain;
+
 }
 }
